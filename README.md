@@ -1,4 +1,4 @@
-![logo](https://github.com/Rifat-Tipu/Rifat-Tipu/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rifat Hossain</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
