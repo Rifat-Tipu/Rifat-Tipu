@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Hossain</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate CSE Student from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQEmgjKyIlM3GQ/article-cover_image-shrink_600_2000/0/1700126803919?e=2147483647&v=beta&t=IUVmZQGZdhjQAwgj4WM0chZgnofIFeYpivGDv2yl9y8">
 
