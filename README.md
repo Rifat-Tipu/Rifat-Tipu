@@ -13,6 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rifat-Tipu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rifat-Tipu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Tipu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--SNAKE GAME-->
+
+![snake gif](https://github.com/Rifat-Tipu/Rifat-Tipu/blob/output/github-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
