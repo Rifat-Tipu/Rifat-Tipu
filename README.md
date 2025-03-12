@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifat Hossain</h1>
 <h3 align="center">A passionate CSE Student from Bangladesh</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 # 💫 About Me:<br>
 🔭 I’m currently working on Projects<br>🌱 I’m currently learning Backend Development(Java)<br>💬 Ask me about C++, Java<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
 
