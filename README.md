@@ -3,8 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:
-🔭 I’m currently working on Projects<br>🌱 I’m currently learning Backend Development(Java)<br>💬 Ask me about C++, Java<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno5MmRwdnBlajh6N2FkOWJtOWpmbzFiOGIxM3VibXFqY2NlNzU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmCpR6X9LvFXt1K9eT/giphy.gif" width="50">About Me
+
+🔭 I’m currently working on Projects  
+🌱 I’m currently learning Backend Development (Java)  
+💬 Ask me about C++, Java  
+⚡ Fun fact: I spend more time debugging my own code than writing it! 🚀
 
 
 ## 🌐 Socials:
