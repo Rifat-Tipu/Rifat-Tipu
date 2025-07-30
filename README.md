@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno5MmRwdnBlajh6N2FkOWJtOWpmbzFiOGIxM3VibXFqY2NlNzU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmCpR6X9LvFXt1K9eT/giphy.gif" width="50">About Me
+<h2><img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50" style="vertical-align: middle;"> About Me</h2>
 
 🔭 I’m currently working on Projects  
 🌱 I’m currently learning Backend Development (Java)  
