@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rifat Hossain</h1>
-<h3 align="center">A passionate CSE Student from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
+<h3 align="center">Aspiring Java Developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 
 <h2><img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50" style="vertical-align: middle;"> About Me</h2>
 
