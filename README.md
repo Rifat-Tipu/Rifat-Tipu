@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rifat Hossain</h1>
-<h3 align="center">Aspiring Java Developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:673AB7&height=200&text=RIFAT%20HOSSAIN&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9C27B0&center=true&width=435&lines=Backend+Developer+(Java);Spring+Boot+Expert;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 
