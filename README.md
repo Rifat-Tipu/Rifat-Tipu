@@ -13,10 +13,26 @@
 
 <h2><img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50" style="vertical-align: middle;"> About Me</h2>
 
-🔭 I’m currently working on Projects  
-🌱 I’m currently learning Backend Development (Java)  
-💬 Ask me about C++, Java  
-⚡ Fun fact: I spend more time debugging my own code than writing it! 🚀
+Aspiring Java developer passionate about building clean, efficient, and scalable backend systems using Spring Framework and Spring Boot. A problem solver at heart, I bring strong competitive programming experience that sharpens my algorithmic thinking and coding precision.
+
+With a solid foundation in Java and hands-on experience in SQL, C, C++, Database Design, I approach every challenge with curiosity and attention to detail. Constantly exploring new technologies, I’m driven by the excitement of creating impactful applications from the ground up and delivering code that truly makes a difference.
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Rifat777" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+    <img 
+      alt="Codeforces Problems Solved" 
+      src="https://img.shields.io/badge/Codeforces-Rifat777%20|%20352%20problems-4c1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=141414&color=00b09b&longCache=true"
+    />
+  </a>
+  <a href="https://leetcode.com/u/vampire_77/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+    <img 
+      alt="LeetCode Problems Solved" 
+      src="https://img.shields.io/badge/LeetCode-vampire_77%20|%2042%20problems-%23E05D44?style=for-the-badge&logo=leetcode&logoColor=white"
+    />
+  </a>
+</p>
+
+
 
 
 <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxbHZvZDg5azluNjkzcTdhZWU4a212NmFxdWJvcXI4N2Jvb3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PNo3rrww1K4lTqHly1/giphy.gif" width="50" style="vertical-align: middle;"> Socials</h2>
