@@ -27,12 +27,24 @@ def get_codeforces_solved(username):
 leetcode_username = "vampire_77"
 codeforces_username = "Rifat777"
 
-stats = {
+# Create Shields.io JSON format
+leetcode_stats = {
     "schemaVersion": 1,
-    "label": "Problems Solved",
-    "message": f"CF {get_codeforces_solved(codeforces_username)} | LC {get_leetcode_solved(leetcode_username)}",
+    "label": "LeetCode",
+    "message": f"{get_leetcode_solved(leetcode_username)} problems",
+    "color": "E05D44"
+}
+
+codeforces_stats = {
+    "schemaVersion": 1,
+    "label": "Codeforces",
+    "message": f"{get_codeforces_solved(codeforces_username)} problems",
     "color": "00b09b"
 }
 
-with open("stats.json", "w") as f:
-    json.dump(stats, f)
+# Save two JSON files
+with open("lc.json", "w") as f:
+    json.dump(leetcode_stats, f)
+
+with open("cf.json", "w") as f:
+    json.dump(codeforces_stats, f)
