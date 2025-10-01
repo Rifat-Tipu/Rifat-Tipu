@@ -21,7 +21,7 @@ With a solid foundation in Java and hands-on experience in SQL, C, C++, Database
   <a href="https://codeforces.com/profile/Rifat777" target="_blank">
     <img 
       alt="Codeforces Problems Solved"
-      src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rifat-Tipu/Rifat-Tipu/main/cf.json&style=for-the-badge&logo=codeforces&logoColor=white"
+      src="https://img.shields.io/badge/Codeforces-352%20problems-00b09b?style=for-the-badge&logo=codeforces&logoColor=white"
     />
   </a>
   <a href="https://leetcode.com/u/vampire_77/" target="_blank">
@@ -31,6 +31,7 @@ With a solid foundation in Java and hands-on experience in SQL, C, C++, Database
     />
   </a>
 </p>
+
 
 
 
