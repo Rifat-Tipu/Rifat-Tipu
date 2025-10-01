@@ -18,19 +18,20 @@ Aspiring Java developer passionate about building clean, efficient, and scalable
 With a solid foundation in Java and hands-on experience in SQL, C, C++, Database Design, I approach every challenge with curiosity and attention to detail. Constantly exploring new technologies, I’m driven by the excitement of creating impactful applications from the ground up and delivering code that truly makes a difference.
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Rifat777" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <a href="https://codeforces.com/profile/Rifat777" target="_blank">
     <img 
-      alt="Codeforces Problems Solved" 
-      src="https://img.shields.io/badge/Codeforces-Rifat777%20|%20352%20problems-4c1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=141414&color=00b09b&longCache=true"
+      alt="Codeforces Problems Solved"
+      src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rifat-Tipu/Rifat-Tipu/main/cf.json&style=for-the-badge&logo=codeforces&logoColor=white"
     />
   </a>
-  <a href="https://leetcode.com/u/vampire_77/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+  <a href="https://leetcode.com/u/vampire_77/" target="_blank">
     <img 
-      alt="LeetCode Problems Solved" 
-      src="https://img.shields.io/badge/LeetCode-vampire_77%20|%2042%20problems-%23E05D44?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode Problems Solved"
+      src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rifat-Tipu/Rifat-Tipu/main/lc.json&style=for-the-badge&logo=leetcode&logoColor=white"
     />
   </a>
 </p>
+
 
 
 
