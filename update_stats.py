@@ -2,18 +2,20 @@ import requests
 import json
 
 def get_leetcode_solved(username):
-    # Using the active alfa-leetcode-api endpoint
-    url = f"https://alfa-leetcode-api.onrender.com/{username}"
+    url = f"https://alfa-leetcode-api.onrender.com/{username}/solved"
+
     try:
         r = requests.get(url, timeout=10)
-        r.raise_for_status() # Flags HTTP errors so they don't fail silently
+        r.raise_for_status()
         data = r.json()
-        
-        # This API returns the problem count under the key "totalSolved"
-        return data.get("totalSolved", 0)
+
+        # API returns {"solvedProblem": 150, ...}
+        return data.get("solvedProblem", 0)
+
     except Exception as e:
         print(f"Error fetching LeetCode stats: {e}")
         return 0
+
 
 leetcode_username = "vampire_77"
 
